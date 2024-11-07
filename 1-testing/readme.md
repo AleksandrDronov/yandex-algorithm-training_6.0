@@ -1,1 +1,1 @@
-[контекст](https://contest.yandex.ru/contest/66792/problems/)
+[контест](https://contest.yandex.ru/contest/66792/problems/)

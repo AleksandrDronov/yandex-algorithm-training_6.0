@@ -1,7 +1,7 @@
 ## Тренировки по алгоритмам 6.0 от Яндекса
 [ссылка](https://yandex.ru/yaintern/training/algorithm-training)
 
-[img](./cert.pdf)
+![image](./cert.pdf)
 
 ### Темы
   1. Тестирование
